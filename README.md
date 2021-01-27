@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performed analysis on several thousand crowdfuniding projects to uncover trends with visualizations and statistical computations. 
+Performed analysis on several thousand crowdfunding projects to uncover trends with visualizations and statistical computations. 
 
 
 ![ParentCategoryOutcomes](/Desktop/bootcamp/Crowd_Funding_Analysis/ParentCategoryOutcomes.svg)
