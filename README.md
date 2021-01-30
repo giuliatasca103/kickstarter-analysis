@@ -2,7 +2,7 @@
 Performed analysis on several thousand crowdfunding projects to uncover trends with visualizations and statistical computations. 
 
 
-![ParentCategoryOutcomes.svg](/Users/giuliatasca/Desktop/bootcamp/Crowd_Funding_Analysis/ParentCategoryOutcomes.svg)
+![ParentCategoryOutcomes.svg](ParentCategoryOutcomes.svg)
 
 ![OutcomesBasedonLaunchDate.svg](/Users/giuliatasca/Desktop/bootcamp/Crowd_Funding_Analysis/OutcomesBasedonLaunchDate.svg)
 
