@@ -6,7 +6,7 @@ Performed analysis on several thousand crowdfunding projects to uncover trends w
 
 ![OutcomesBasedonLaunchDate.svg](OutcomesBasedonLaunchDate.svg)
 
-![GBMusicals.svg](/Users/giuliatasca/Desktop/bootcamp/Crowd_Funding_Analysis/GBMusicals.svg)
+![GBMusicals.svg](GBMusicals.svg)
 
 *The line chart above shows that the month that launched the most successful Kickstarter campaigns was May. However, January, June, July, and October all had rougly the same amount of failed campaigns launched. By filtering the data and the charts, I found that overall, theater is a very successful type of campaign with a spike beginning in June that seems to taper off by the end of the year.*
 
