@@ -4,7 +4,7 @@ Performed analysis on several thousand crowdfunding projects to uncover trends w
 
 ![ParentCategoryOutcomes.svg](ParentCategoryOutcomes.svg)
 
-![OutcomesBasedonLaunchDate.svg](/Users/giuliatasca/Desktop/bootcamp/Crowd_Funding_Analysis/OutcomesBasedonLaunchDate.svg)
+![OutcomesBasedonLaunchDate.svg](OutcomesBasedonLaunchDate.svg)
 
 ![GBMusicals.svg](/Users/giuliatasca/Desktop/bootcamp/Crowd_Funding_Analysis/GBMusicals.svg)
 
