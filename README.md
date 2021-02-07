@@ -21,11 +21,11 @@ Performed analysis on different campaigns to uncover trends in outcomes based on
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch.svg](Theater_Outcomes_vs_Launch.svg)
+![/resources/Theater_Outcomes_vs_Launch.svg](/resources/Theater_Outcomes_vs_Launch.svg)
 I created a pivot table to analyze campaign outcomes based on the launch date of the campaign. I filtered by years and the theater category to get the relevant campaigns. From this pivot table, I created a line chart to show the relationship between campaign outcomes and launch date. 
 
 ### Analysis of Outcomes Based on Goal
-![Outcomes_vs_Goals.svg](Outcomes_vs_Goals.svg)
+![/resources/Outcomes_vs_Goals.svg](/resources/Outcomes_vs_Goals.svg)
 I created a new sheet to analyze play outcomes based on the funding goal amount by percentages with a table and a line chart. I created a “Goal” column to have various dollar-amount ranges so I could group projects based on their funding goals. I calculated the number of successful, failed, canceled, and total projects by the goal ranges and then found the percentages of each outcome. I created a line chart to visualize this relationship.  
 
 ### Challenges and Difficulties Encountered
